@@ -1,0 +1,8 @@
+1. ArudinoJson by Benoit Blanchon
+2. CoAP simple library by Hirotaka Niisato
+3. Adafruit MPU6050 by Adafruit
+5. DHT sensor library by Adafruit
+6. Adafruit BusIO by Adafruit
+7. RTCLib by NeiroN
+8. LiquidCrystal by Adafruit
+9. IRremote by shirriff
